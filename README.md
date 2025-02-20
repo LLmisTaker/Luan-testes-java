@@ -1,2 +1,2 @@
 # Luan-testes-java
-Repositório para armazenar códigos do curso de Java
+Repositório para armazenar códigos do curso Java
